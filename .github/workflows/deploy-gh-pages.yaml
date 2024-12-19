@@ -25,7 +25,6 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           path: "./feature-flags"
-          path: "./mobile-feature-flags"
 
       - name: Deploy to GitHub Pages
         id: deployment
