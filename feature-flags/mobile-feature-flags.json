@@ -1,4 +1,5 @@
 {
   "useProxy": true,
-  "coingeckoUrl": "https://api.coingecko.com/api/v3"
+  "coingeckoUrl": "https://api.coingecko.com/api/v3",
+  "coingeckoProxyUrl": "https://coin-api.veworld.vechain.org"
 }
