@@ -1,5 +1,7 @@
 {
-  "useProxy": true,
-  "coingeckoUrl": "https://api.coingecko.com/api/v3",
-  "coingeckoProxyUrl": "https://coin-api.veworld.vechain.org"
+  "marketsProxyFeature": {
+    "enabled": true,
+    "url": "https://coin-api.veworld.vechain.org",
+    "fallbackUrl": "https://api.coingecko.com/api/v3"
+  }
 }
