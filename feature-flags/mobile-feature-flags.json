@@ -3,5 +3,8 @@
     "enabled": true,
     "url": "https://coin-api.veworld.vechain.org",
     "fallbackUrl": "https://api.coingecko.com/api/v3"
+  },
+  "pushNotificationFeature": {
+    "enabled": false
   }
 }
