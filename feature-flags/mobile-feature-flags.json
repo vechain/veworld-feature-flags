@@ -6,5 +6,8 @@
   },
   "pushNotificationFeature": {
     "enabled": false
+  },
+  "subdomainClaimFeature": {
+    "enabled": true
   }
 }
