@@ -1,4 +1,5 @@
 {
   "coinbase": true,
-  "transak": true
+  "transak": true,
+  "subdomains_claimable": true
 }
