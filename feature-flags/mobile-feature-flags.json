@@ -5,7 +5,7 @@
     "fallbackUrl": "https://api.coingecko.com/api/v3"
   },
   "pushNotificationFeature": {
-    "enabled": true
+    "enabled": false
   },
   "subdomainClaimFeature": {
     "enabled": true
