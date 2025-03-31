@@ -21,7 +21,7 @@
     },
     "coinify": {
       "android": true,
-      "iOS": true
+      "iOS": false
     }
   }
 }
