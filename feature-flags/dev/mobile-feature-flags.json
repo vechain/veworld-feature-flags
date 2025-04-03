@@ -23,5 +23,8 @@
       "android": true,
       "iOS": false
     }
+  },
+  "discordFeature": {
+    "showStellaPayBanner": true
   }
 }
