@@ -24,7 +24,7 @@
       "iOS": false
     }
   },
-  "discordFeature": {
+  "discoveryFeature": {
     "showStellaPayBanner": true
   }
 }
