@@ -25,6 +25,7 @@
     }
   },
   "discoveryFeature": {
+    "bannersAutoplay": false,
     "showStellaPayBanner": false
   }
 }
