@@ -27,5 +27,8 @@
   "discoveryFeature": {
     "bannersAutoplay": false,
     "showStellaPayBanner": true
+  },
+  "debugFeature": {
+    "loadingScreen": true
   }
 }
