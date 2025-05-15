@@ -31,7 +31,7 @@
   "debugFeature": {
     "loadingScreen": true
   },
-  "fork": {
+  "forks": {
     "GALACTICA": {
       "transactions": {
         "ledger": false
