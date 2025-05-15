@@ -30,5 +30,12 @@
   },
   "debugFeature": {
     "loadingScreen": true
+  },
+  "fork": {
+    "GALACTICA": {
+      "transactions": {
+        "ledger": false
+      }
+    }
   }
 }
