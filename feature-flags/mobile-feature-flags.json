@@ -26,7 +26,8 @@
   },
   "discoveryFeature": {
     "bannersAutoplay": false,
-    "showStellaPayBanner": true
+    "showStellaPayBanner": true,
+    "showStargateBanner": false
   },
   "debugFeature": {
     "loadingScreen": true
