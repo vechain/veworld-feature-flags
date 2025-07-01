@@ -4,5 +4,5 @@
   "subdomains_claimable": true,
   "sell_token": true,
   "coinify": true,
-  "enable_stargate": true
+  "enable_stargate": false
 }
