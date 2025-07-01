@@ -27,7 +27,7 @@
   "discoveryFeature": {
     "bannersAutoplay": false,
     "showStellaPayBanner": true,
-    "showStargateBanner": true
+    "showStargateBanner": false
   },
   "debugFeature": {
     "loadingScreen": true
