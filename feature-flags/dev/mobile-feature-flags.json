@@ -38,5 +38,10 @@
         "ledger": false
       }
     }
+  },
+  "betterWorldFeature": {
+    "appsScreen": {
+      "enabled": true
+    }
   }
 }
