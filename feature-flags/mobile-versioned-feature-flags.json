@@ -1,47 +1,47 @@
 {
   "marketsProxyFeature": {
-    "enabled": "2.3.9",
+    "enabled": "2.3.2",
     "url": "https://coin-api.veworld.vechain.org",
     "fallbackUrl": "https://api.coingecko.com/api/v3"
   },
   "pushNotificationFeature": {
-    "enabled": "2.3.9"
+    "enabled": "2.3.2"
   },
   "subdomainClaimFeature": {
-    "enabled": "2.3.9"
+    "enabled": "2.3.2"
   },
   "paymentProvidersFeature": {
     "coinbase-pay": {
-      "android": "2.3.9",
-      "iOS": "2.3.9"
+      "android": "2.3.2",
+      "iOS": "2.3.2"
     },
     "transak": {
-      "android": "2.3.9",
-      "iOS": "2.3.9"
+      "android": "2.3.2",
+      "iOS": "2.3.2"
     },
     "coinify": {
-      "android": "2.3.9",
-      "iOS": "2.3.9"
+      "android": "2.3.2",
+      "iOS": "2.3.2"
     }
   },
   "discoveryFeature": {
-    "bannersAutoplay": "2.3.9",
-    "showStellaPayBanner": "2.3.9",
-    "showStargateBanner": "2.3.9"
+    "bannersAutoplay": "2.3.2",
+    "showStellaPayBanner": "2.3.2",
+    "showStargateBanner": "2.3.2"
   },
   "debugFeature": {
-    "loadingScreen": "2.3.9"
+    "loadingScreen": "2.3.2"
   },
   "forks": {
     "GALACTICA": {
       "transactions": {
-        "ledger": "2.3.9"
+        "ledger": "2.3.2"
       }
     }
   },
   "betterWorldFeature": {
     "appsScreen": {
-      "enabled": "2.4.1"
+      "enabled": "2.3.2"
     }
   }
 }
