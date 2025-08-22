@@ -13,7 +13,7 @@
   "paymentProvidersFeature": {
     "coinbase-pay": {
       "android": "2.3.0",
-      "iOS": "2.3.0"
+      "iOS": "9.9.9"
     },
     "transak": {
       "android": "2.3.0",
@@ -21,7 +21,7 @@
     },
     "coinify": {
       "android": "2.3.0",
-      "iOS": "2.3.0"
+      "iOS": "9.9.9"
     }
   },
   "discoveryFeature": {
