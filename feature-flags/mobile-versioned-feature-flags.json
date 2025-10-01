@@ -13,7 +13,8 @@
   "paymentProvidersFeature": {
     "coinbase-pay": {
       "android": "2.3.2",
-      "iOS": "2.4.3"
+      "iOS": "2.4.3",
+      "url": "https://lqaxxui0wc.execute-api.eu-west-1.amazonaws.com/veworld-onramp-proxy-prod-api"
     },
     "transak": {
       "android": "2.3.2",
