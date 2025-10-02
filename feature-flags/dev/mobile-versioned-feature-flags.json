@@ -13,7 +13,8 @@
   "paymentProvidersFeature": {
     "coinbase-pay": {
       "android": "2.3.0",
-      "iOS": "2.4.0"
+      "iOS": "2.4.0",
+      "url": "https://onramp-proxy.vechain.org"
     },
     "transak": {
       "android": "2.3.0",
