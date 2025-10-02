@@ -14,7 +14,7 @@
     "coinbase-pay": {
       "android": "2.3.0",
       "iOS": "2.4.0",
-      "url": "https://lqaxxui0wc.execute-api.eu-west-1.amazonaws.com/veworld-onramp-proxy-prod-api"
+      "url": "https://onramp-proxy.vechain.org"
     },
     "transak": {
       "android": "2.3.0",
