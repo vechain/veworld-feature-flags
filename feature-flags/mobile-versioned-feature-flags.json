@@ -45,7 +45,8 @@
       "enabled": "2.3.9"
     },
     "balanceScreen": {
-      "enabled": "2.4.6"
+      "enabled": "2.4.6",
+      "collectibles": { "enabled": "9.9.9" }
     }
   },
   "smartWalletFeature": {
