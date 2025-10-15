@@ -51,5 +51,10 @@
   },
   "smartWalletFeature": {
     "enabled": "9.9.9"
+  },
+  "notificationCenter": {
+    "registration": {
+      "enabled": "9.9.9"
+    }
   }
 }
