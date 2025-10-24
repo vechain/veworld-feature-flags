@@ -46,7 +46,8 @@
     },
     "balanceScreen": {
       "enabled": "2.4.6",
-      "collectibles": { "enabled": "9.9.9" }
+      "collectibles": { "enabled": "9.9.9" },
+      "tokens": { "enabled": "9.9.9" }
     }
   },
   "smartWalletFeature": {
