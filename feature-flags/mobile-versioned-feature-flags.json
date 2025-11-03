@@ -55,7 +55,7 @@
   },
   "notificationCenter": {
     "registration": {
-      "enabled": "2.4.8"
+      "enabled": "2.4.9"
     }
   }
 }
