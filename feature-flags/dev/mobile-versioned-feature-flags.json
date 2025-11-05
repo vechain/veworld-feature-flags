@@ -42,10 +42,12 @@
     "HAYABUSA": {
       "stargate": {
         "testnet": {
-          "nftContract": "0x1e02b2953adefec225cf0ec49805b1146a4429c1"
+          "nftContract": "0x887d9102f0003f1724d8fd5d4fe95a11572fcd77",
+          "contract": "0x1e02b2953adefec225cf0ec49805b1146a4429c1"
         },
         "mainnet": {
-          "nftContract": "0x0000000000000000000000000000000000000000"
+          "nftContract": "0x0000000000000000000000000000000000000000",
+          "contract": "0x0000000000000000000000000000000000000000"
         }
       }
     }
