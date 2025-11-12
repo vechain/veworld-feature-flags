@@ -48,10 +48,10 @@
           "contract": "0x0000000000000000000000000000000000000000"
         },
         "0x0000000081b0e5dc4decce0579106706333293e1acb1a3969f4fb4f5a47ef79c": {
-          "contract": "0x35ce14062457ef7817e10bbc3815317f5a07d695",
-          "nft": "0x2fd6240f2eeef39b213c600c70ad2ab64753db6d",
-          "nodeManagement": "0xb9f584317c45b54d9e9abebb2a374ec57a3c7796",
-          "delegation": "0x510a40c106d6ddd48892d65992c83bfd7df8166b"
+          "contract": "0xeed63cb62e33c2b087bea5804b5b6166319c0969",
+          "nft": "0x706ab07751a351775ac6dde49b6e0dd495af0b09",
+          "nodeManagement": "0x6ce335494b6057e234ae185273aea5e9124be791",
+          "delegation": "0x0000000000000000000000000000000000000000"
         }
       }
     }
