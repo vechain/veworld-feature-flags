@@ -64,7 +64,7 @@
       "enabled": "2.4.2",
       "collectibles": { "enabled": "2.4.4" },
       "tokens": { "enabled": "2.4.7" },
-      "sendScreen": { "enabled": "2.4.10" }
+      "send": { "enabled": "2.4.10" }
     }
   },
   "smartWalletFeature": {
