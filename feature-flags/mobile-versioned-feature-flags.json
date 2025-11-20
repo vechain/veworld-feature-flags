@@ -63,7 +63,8 @@
     "balanceScreen": {
       "enabled": "2.4.6",
       "collectibles": { "enabled": "2.4.8" },
-      "tokens": { "enabled": "2.4.10" }
+      "tokens": { "enabled": "2.4.10" },
+      "sendScreen": { "enabled": "9.9.9" }
     }
   },
   "smartWalletFeature": {
