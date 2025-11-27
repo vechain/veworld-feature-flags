@@ -18,7 +18,8 @@
     },
     "transak": {
       "android": "2.3.0",
-      "iOS": "2.3.0"
+      "iOS": "2.3.0",
+      "url": "https://fskkwvmazl.execute-api.eu-west-1.amazonaws.com/veworld-onramp-proxy-dev-api/"
     },
     "coinify": {
       "android": "2.3.0",
