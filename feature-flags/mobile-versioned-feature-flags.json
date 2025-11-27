@@ -18,7 +18,8 @@
     },
     "transak": {
       "android": "2.3.2",
-      "iOS": "2.3.2"
+      "iOS": "2.3.2",
+      "url": "https://onramp-proxy.vechain.org"
     },
     "coinify": {
       "android": "2.3.2",
