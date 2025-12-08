@@ -1,5 +1,5 @@
 {
-  "coinbase": false,
+  "coinbase": true,
   "transak": true,
   "subdomains_claimable": true,
   "sell_token": true,
