@@ -72,7 +72,7 @@
       "collectibles": { "enabled": "2.4.8" },
       "tokens": { "enabled": "2.4.10" },
       "send": { "enabled": "2.4.14" },
-      "sendCollectibles": { "enabled": "9.9.9" }
+      "sendCollectibles": { "enabled": "2.4.14" }
     }
   },
   "smartWalletFeature": {
