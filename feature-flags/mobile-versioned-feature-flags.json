@@ -73,6 +73,9 @@
       "tokens": { "enabled": "2.4.10" },
       "send": { "enabled": "2.4.14" },
       "sendCollectibles": { "enabled": "2.4.14" }
+    },
+    "onboardingScreen": {
+      "enabled": "9.9.9"
     }
   },
   "smartWalletFeature": {
