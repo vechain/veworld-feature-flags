@@ -79,7 +79,7 @@
     }
   },
   "smartWalletFeature": {
-    "enabled": "2.5.2"
+    "enabled": "2.5.1"
   },
   "notificationCenter": {
     "registration": {
