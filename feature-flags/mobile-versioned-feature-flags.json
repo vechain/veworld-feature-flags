@@ -75,7 +75,7 @@
       "sendCollectibles": { "enabled": "2.4.14" }
     },
     "onboardingScreen": {
-      "enabled": "9.9.9"
+      "enabled": "2.5.2"
     }
   },
   "smartWalletFeature": {
