@@ -85,5 +85,8 @@
     "registration": {
       "enabled": "2.4.7"
     }
-  }
+  },
+  "hiddenForYouPopularApps": [
+    "0x446d3d6838b5cba38a63792a0c386c927ce51f7836bc8412fb2ccadfe7034f22"
+  ]
 }
