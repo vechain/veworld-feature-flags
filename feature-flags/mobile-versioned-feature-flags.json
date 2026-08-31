@@ -81,6 +81,14 @@
   "smartWalletFeature": {
     "enabled": "2.5.2"
   },
+  "appleMigrationFeature": {
+    "banner": {
+      "enabled": "99.99.99"
+    },
+    "loginDisabled": {
+      "enabled": "99.99.99"
+    }
+  },
   "notificationCenter": {
     "registration": {
       "enabled": "2.4.10"
