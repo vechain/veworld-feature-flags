@@ -83,12 +83,10 @@
   },
   "appleMigrationFeature": {
     "banner": {
-      "enabled": "2.5.9",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-17"
+      "enabled": "99.99.99"
     },
     "loginDisabled": {
-      "enabled": "2.5.9"
+      "enabled": "99.99.99"
     }
   },
   "notificationCenter": {
