@@ -83,7 +83,7 @@
   },
   "appleMigrationFeature": {
     "banner": {
-      "enabled": "99.99.99"
+      "enabled": "2.5.9"
     },
     "loginDisabled": {
       "enabled": "99.99.99"
